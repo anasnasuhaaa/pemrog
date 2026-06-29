@@ -1,21 +1,47 @@
 #include <iostream>
+#include <vector>
+using namespace std;
 
 int main()
 {
-  int *dynArr = new int[1];
+  vector<int> arr1;
+  vector<int> arr2;
+  int num;
 
-  for (int i = 0; i < 4; i++)
+  while (cin >> num && num != -9)
   {
-    dynArr[i] = i * 10;
+    arr1.push_back(num);
   }
-  int arr[3] = {1, 2, 3};
-  std::cout << sizeof(arr) << std::endl;
-  std::cout << sizeof(dynArr);
-  // for (int i = 0; i < 5; i++)
-  // {
-  //   std::cout << dynArr[i] << " ";
-  // }
+  while (cin >> num && num != -9)
+  {
+    arr2.push_back(num);
+  }
 
-  delete[] dynArr;
+  int x = 0, y = 0;
+  while (x < arr1.size() && y < arr2.size())
+  {
+    if (arr1[x] < arr2[y])
+    {
+      cout << arr1[x] << " ";
+      x++;
+    }
+    else
+    {
+      cout << arr2[y] << " ";
+      y++;
+    }
+  }
+
+  while (x < arr1.size())
+  {
+    cout << arr1[x] << " ";
+    x++;
+  }
+  while (y < arr2.size())
+  {
+    cout << arr2[y] << " ";
+    y++;
+  }
+
   return 0;
 }
