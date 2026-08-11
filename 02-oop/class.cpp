@@ -20,6 +20,7 @@ public:
   {
     b = p;
   }
+  
   int sum()
   {
     return a + b;

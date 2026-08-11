@@ -1,18 +1,17 @@
 #include <iostream>
 #include <vector>
-using namespace std;
 
 int main()
 {
-  vector<int> arr1;
-  vector<int> arr2;
-  int num;
+  std::vector<int> arr1;
+  std::vector<int> arr2;
 
-  while (cin >> num && num != -9)
+  int num;
+  while (std::cin >> num && num != -9)
   {
     arr1.push_back(num);
   }
-  while (cin >> num && num != -9)
+  while (std::cin >> num && num != -9)
   {
     arr2.push_back(num);
   }
@@ -22,25 +21,25 @@ int main()
   {
     if (arr1[x] < arr2[y])
     {
-      cout << arr1[x] << " ";
+      std::cout << arr1[x] << " ";
       x++;
     }
     else
     {
-      cout << arr2[y] << " ";
+      std::cout << arr2[y] << " ";
       y++;
     }
   }
 
   while (x < arr1.size())
   {
-    cout << arr1[x] << " ";
+    std::cout << arr1[x] << " ";
     x++;
   }
-  
+
   while (y < arr2.size())
   {
-    cout << arr2[y] << " ";
+    std::cout << arr2[y] << " ";
     y++;
   }
 
