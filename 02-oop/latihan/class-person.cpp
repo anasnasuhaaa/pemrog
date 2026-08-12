@@ -21,7 +21,7 @@ public:
     weight = 0.0;
   }
 
-  // Setter
+  // Setter / Mutator
   void set(string pName, int pAge, int pHeight, float pWeight)
   {
     name = pName;
@@ -30,7 +30,7 @@ public:
     weight = pWeight;
   }
 
-  // Getter
+  // Getter / Accessor
   string getName()
   {
     return name;
@@ -56,9 +56,11 @@ int main()
   cin >> n;
 
   string name;
+
   int age;
   int height;
   double weight;
+
 
   for (int i = 0; i < n; i++)
   {
