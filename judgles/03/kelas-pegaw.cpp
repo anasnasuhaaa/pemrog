@@ -87,7 +87,6 @@ int main()
     string id;
     int usia, tipe, gaji;
     cin >> id >> usia >> tipe;
-
     if (tipe == 1)
     {
       cin >> gaji;
@@ -106,7 +105,6 @@ int main()
   while (cin >> id && id != "END")
   {
     cin >> upah;
-
     for (int i = 0; i < coutPt; i++)
     {
       if (pt[i].getID() == id)
