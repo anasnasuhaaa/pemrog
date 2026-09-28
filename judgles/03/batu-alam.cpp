@@ -8,12 +8,17 @@ private:
   int p, l;
 
 public:
+  // Constructor
   Persegi() : p(0), l(0) {};
+
+  // Mutator/Setter
   void setPersegi(int panjang, int lebar)
   {
     p = panjang;
     l = lebar;
   }
+
+  // Accessor/Getter
   int luas()
   {
     return p * l;
