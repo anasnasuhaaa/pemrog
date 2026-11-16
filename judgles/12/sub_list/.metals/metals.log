@@ -1,0 +1,84 @@
+2026.11.16 15:55:03 INFO  Started: Metals version 1.6.9 in folders '/home/ansupedia/Documents/pemrog/judgles/12/sub_list' for client Visual Studio Code 1.146.0.[0m
+2026.11.16 15:55:03 INFO  Memory monitor started[0m
+2026.11.16 15:55:05 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.16 15:55:05 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:06 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:07 INFO  Attempting to connect to the build server...[0m
+2026.11.16 15:55:07 INFO  Running BSP server List(/home/ansupedia/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.10.0/scala3-3.10.0-x86_64-pc-linux.tar.gz/scala3-3.10.0-x86_64-pc-linux/libexec/scala-cli, --cli-default-scala-version, 3.10.0, --repository, file:///home/ansupedia/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.10.0/scala3-3.10.0-x86_64-pc-linux.tar.gz/scala3-3.10.0-x86_64-pc-linux/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /home/ansupedia/Documents/pemrog/judgles/12/sub_list/.scala-build/ide-options-v2.json, --json-launcher-options, /home/ansupedia/Documents/pemrog/judgles/12/sub_list/.scala-build/ide-launcher-options.json, --envs-file, /home/ansupedia/Documents/pemrog/judgles/12/sub_list/.scala-build/ide-envs.json, /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala)[0m
+2026.11.16 15:55:06 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:07 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:07 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/ansupedia/Documents/pemrog/judgles/12/sub_list/.metals/bsp.trace.json or /home/ansupedia/.cache/metals/bsp.trace.json[0m
+2026.11.16 15:55:06 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:06 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+Nov 16, 2026 3:55:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.11.16 15:55:06 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:06 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:08 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:08 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:08 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:08 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:07 INFO  time: Connected to build server in 1.21s[0m
+2026.11.16 15:55:08 INFO  Connected to Build server: scala v1.17.1[0m
+Nov 16, 2026 3:55:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2026.11.16 15:55:08 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:08 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:08 INFO  time: Imported build in 0.26s[0m
+2026.11.16 15:55:08 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/sub_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:55:08 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+Nov 16, 2026 3:55:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2026.11.16 15:55:08 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.63s[0m
+2026.11.16 15:55:08 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 15:55:08 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 59ms[0m
+Nov 16, 2026 3:55:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+Nov 16, 2026 3:55:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+2026.11.16 15:55:11 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 15:55:11 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.12s[0m
+2026.11.16 15:55:13 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.16 15:55:13 INFO  time: indexed workspace in 5.45s[0m
+2026.11.16 15:55:14 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 15:55:14 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.12s[0m
+2026.11.16 15:55:23 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 15:55:23 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.22s[0m
+2026.11.16 15:55:25 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 15:55:25 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 99ms[0m
+Nov 16, 2026 3:55:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 83
+2026.11.16 15:55:28 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 15:55:28 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.12s[0m
+2026.11.16 15:55:32 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 15:55:32 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.22s[0m
+Nov 16, 2026 3:55:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 211
+2026.11.16 15:55:41 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 15:55:41 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.24s[0m
+2026.11.16 16:02:06 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 16:02:06 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.26s[0m
+2026.11.16 16:02:09 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 16:02:09 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.23s[0m
+2026.11.16 16:29:01 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 16:29:01 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.3s[0m
+2026.11.16 16:29:07 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 16:29:07 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.25s[0m
+2026.11.16 16:30:20 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+2026.11.16 16:30:20 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.35s[0m
+2026.11.16 16:30:45 INFO  compiling sub_list_c17bc2600e-905aad8742 (1 scala source)[0m
+Nov 16, 2026 4:30:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.16 16:30:45 INFO  time: compiled sub_list_c17bc2600e-905aad8742 in 0.32s[0m
+2026.11.16 16:30:45 INFO  Tracing is disabled for protocol dap-server. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/ansupedia/Documents/pemrog/judgles/12/sub_list/.metals/dap-server.trace.json or /home/ansupedia/.cache/metals/dap-server.trace.json[0m
+2026.11.16 16:30:45 INFO  Tracing is disabled for protocol dap-client. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/ansupedia/Documents/pemrog/judgles/12/sub_list/.metals/dap-client.trace.json or /home/ansupedia/.cache/metals/dap-client.trace.json[0m
+2026.11.16 16:30:46 INFO  Starting debug proxy for [Main][0m
+2026.11.16 16:30:48 WARN  Cannot fetch expression compiler of Scala 3.10.0:  Error downloading ch.epfl.scala:scala-expression-compiler_3.10.0:4.2.13
+  not found: /home/ansupedia/.ivy2/local/ch.epfl.scala/scala-expression-compiler_3.10.0/4.2.13/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/ch/epfl/scala/scala-expression-compiler_3.10.0/4.2.13/scala-expression-compiler_3.10.0-4.2.13.pom[0m
+2026.11.16 16:30:48 INFO  Loaded expression compiler in 2 seconds[0m
+2026.11.16 16:31:55 INFO  Loaded step filter in 1 minute[0m
+2026.11.16 16:31:57 INFO  Loaded all sources and classes in 1 second[0m
+2026.11.16 16:31:58 INFO  Initialized Scala 3 decoder in 1 second[0m
+2026.11.16 16:31:58 INFO  Trying to attach to remote debuggee VM localhost:44503 .[0m
+2026.11.16 16:31:58 INFO  Attaching to debuggee VM succeeded.[0m

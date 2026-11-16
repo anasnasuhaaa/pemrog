@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/home/ansupedia/.local/share/coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/home/ansupedia/Documents/pemrog/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/home/ansupedia/Documents/pemrog/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/home/ansupedia/Documents/pemrog/.scala-build/ide-envs.json",
+    "/home/ansupedia/Documents/pemrog"
+  ],
+  "version": "1.18.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

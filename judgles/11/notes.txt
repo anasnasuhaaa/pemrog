@@ -1,0 +1,3 @@
+Catatakan Praktikum Hari ini:
+1. Jangan AI slopp!, usahakan kerjain dulu sampe mentok, lebih baik keliatan bego di praktikum daripada bego di ujian.
+2. Kalo reduce(+) runtime error pake .sum aja.

@@ -1,0 +1,83 @@
+2026.11.16 15:44:37 INFO  Started: Metals version 1.6.9 in folders '/home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list' for client Visual Studio Code 1.146.0.[0m
+2026.11.16 15:44:37 INFO  Memory monitor started[0m
+2026.11.16 15:44:38 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.16 15:44:38 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:44:40 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:44:40 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+Nov 16, 2026 3:44:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.11.16 15:44:40 INFO  Attempting to connect to the build server...[0m
+2026.11.16 15:44:40 INFO  Running BSP server List(/home/ansupedia/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.10.0/scala3-3.10.0-x86_64-pc-linux.tar.gz/scala3-3.10.0-x86_64-pc-linux/libexec/scala-cli, --cli-default-scala-version, 3.10.0, --repository, file:///home/ansupedia/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.10.0/scala3-3.10.0-x86_64-pc-linux.tar.gz/scala3-3.10.0-x86_64-pc-linux/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/.scala-build/ide-options-v2.json, --json-launcher-options, /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/.scala-build/ide-launcher-options.json, --envs-file, /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/.scala-build/ide-envs.json, /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala)[0m
+2026.11.16 15:44:40 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/.metals/bsp.trace.json or /home/ansupedia/.cache/metals/bsp.trace.json[0m
+2026.11.16 15:44:40 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:44:41 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+Nov 16, 2026 3:44:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.11.16 15:44:48 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:44:48 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:44:49 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:44:49 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:44:51 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:44:51 INFO  no build target found for /home/ansupedia/Documents/pemrog/judgles/12/hapus_element_list/solve.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.16 15:44:52 INFO  time: Connected to build server in 11s[0m
+2026.11.16 15:44:52 INFO  Connected to Build server: scala v1.17.1[0m
+2026.11.16 15:44:51 INFO  time: Imported build in 0.11s[0m
+2026.11.16 15:44:52 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:44:55 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 2.73s[0m
+2026.11.16 15:44:55 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:44:56 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 1.34s[0m
+2026.11.16 15:44:57 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- solve.scala[0m
+Nov 16, 2026 3:44:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+Nov 16, 2026 3:44:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+Nov 16, 2026 3:44:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 16, 2026 3:44:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+Nov 16, 2026 3:44:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+Nov 16, 2026 3:44:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 16, 2026 3:44:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+2026.11.16 15:44:59 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.16 15:44:59 INFO  time: indexed workspace in 8.17s[0m
+2026.11.16 15:45:16 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:45:16 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.45s[0m
+2026.11.16 15:46:26 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:46:26 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.66s[0m
+2026.11.16 15:46:30 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:46:30 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.63s[0m
+2026.11.16 15:46:35 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:46:35 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.57s[0m
+2026.11.16 15:46:54 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:46:54 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.32s[0m
+2026.11.16 15:47:01 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:47:01 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.6s[0m
+2026.11.16 15:48:53 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:48:53 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.64s[0m
+Nov 16, 2026 3:48:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 277
+2026.11.16 15:49:03 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:49:03 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.38s[0m
+2026.11.16 15:49:07 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:49:07 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.4s[0m
+2026.11.16 15:52:44 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:52:44 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.54s[0m
+2026.11.16 15:52:53 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:52:53 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.39s[0m
+2026.11.16 15:53:02 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:53:02 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.4s[0m
+2026.11.16 15:53:06 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:53:06 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.33s[0m
+2026.11.16 15:53:13 INFO  compiling hapus_element_list_c17bc2600e-440d524af8 (1 scala source)[0m
+2026.11.16 15:53:13 INFO  time: compiled hapus_element_list_c17bc2600e-440d524af8 in 0.39s[0m
+Nov 16, 2026 3:54:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.16 16:34:20 INFO  Shutting down server[0m
+2026.11.16 16:34:20 INFO  Memory monitor stopped[0m
+2026.11.16 16:34:20 INFO  shutting down Metals[0m
+2026.11.16 16:34:20 INFO  Shut down connection with build server.[0m
+2026.11.16 16:34:20 INFO  Exiting server[0m

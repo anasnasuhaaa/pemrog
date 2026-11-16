@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Main",
+      "mainClass": "Main",
+      "buildTarget": "file:/home/ansupedia/Documents/pemrog/judgles/12/sub_list/.scala-build/?id=sub_list_c17bc2600e-905aad8742",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
